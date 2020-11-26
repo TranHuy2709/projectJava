@@ -1,0 +1,4 @@
+SV0009,Nguyễn Văn I,Nam,15/3/2000,a@gmail.com,7.2
+SV0010,Nguyễn Thị J,Nữ,27/6/2000,b@gmail.com,8.0
+SV0011,Nguyễn Văn K,Nam,15/8/2000,c@gmail.com,6.5
+SV0012,Nguyễn Văn L,Nam,6/9/2000,d@gmail.com,7.5
